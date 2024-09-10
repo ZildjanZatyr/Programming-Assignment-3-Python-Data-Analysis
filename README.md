@@ -8,18 +8,18 @@ Pandas is a powerful and flexible open-source data analysis and manipulation lib
 ### 1. PONCE_Pandas-P1
 Applying python data structures on this code, the goal is to be able to write a code that loads an existing file, in this instance: a csv file, into a data frame that then it could print. The code should then be able to display the first and last five rows of the csv file list using a function of pandas.
 
-##### 🎯 **Write a code that can load a file then print it.**
-###### ✅ *Load the corresponding .csv file into a data frame named cars using pandas.*
-###### ✅ *Display the first five and last five rows of the resulting cars.*
+>##### 🎯 **Write a code that can load a file then print it.**
+>> ###### ✅ *Load the corresponding .csv file into a data frame named cars using pandas.*
+>> ###### ✅ *Display the first five and last five rows of the resulting cars.*
 
 ### 2. PONCE_Pandas-P2
 Another important data structure of pandas is subsetting, slicing, and indexing. Subsetting in pandas refers to the process of selecting a subset of rows and/or columns from a DataFrame or Series. It allows you to extract specific parts of the data based on certain criteria. Slicing in pandas is used to select a range of rows or columns from a DataFrame or Series. It allows you to extract a subset of data based on the row or column position. Indexing in pandas refers to the way data is labeled and referenced within a DataFrame or Series. Indexing allows you to select data based on these labels. 
 
-##### 🎯 **Write a code that can perfrom these data structures given certain conditions.** 
-###### ✅ *Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.*
-###### ✅ *Display the row that contains the ‘Model’ of ‘Mazda RX4’.*
-###### ✅ *Display the number of cylinders (‘cyl’) does the car model ‘Camaro Z28’ have.*
-###### ✅ *Display the number of cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.*
+> ##### 🎯 **Write a code that can perfrom these data structures given certain conditions.** 
+>> ###### ✅ *Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.*
+>> ###### ✅ *Display the row that contains the ‘Model’ of ‘Mazda RX4’.*
+>> ###### ✅ *Display the number of cylinders (‘cyl’) does the car model ‘Camaro Z28’ have.*
+>> ###### ✅ *Display the number of cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.*
 
 ## Author
 #### *Zildjan Zatyr C. Ponce* 
