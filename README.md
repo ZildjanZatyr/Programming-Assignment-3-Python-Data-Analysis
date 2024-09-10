@@ -46,7 +46,11 @@ Another important data structure of ```pandas``` is subsetting, slicing, and ind
 #### 💻 *Code:*
 ###### *Below shows the code for subsetting, splicing, and indexing:*
 ```Ruby
-# Extracts and displays the first five rows with odd-numbered columns
+# Used to access pandas library
+import pandas as pd
+
+# Loads the CSV file and displays the first five rows with odd-numbered columns
+JDM = pd.read_csv('cars.csv')
 JDM.iloc[[1,3,5,7,9]]
 ```
 ```Ruby
