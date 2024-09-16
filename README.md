@@ -50,6 +50,9 @@ JDM.tail()
 ###### *The code should display the following output:*
 ![image](https://github.com/user-attachments/assets/6919124b-6c45-430c-821e-dab43f57033d)
 
+> [!IMPORTANT]
+> Save your file as Surname_Pandas-P1.py
+
 ### 2️⃣ PONCE_Pandas-P2
 Another important data structure of ```pandas``` is subsetting, slicing, and indexing. Subsetting refers to the process of selecting a subset of rows and/or columns from a DataFrame or Series. It allows you to extract specific parts of the data based on certain criteria. Slicing is used to select a range of rows or columns from a DataFrame or Series. It allows you to extract a subset of data based on the row or column position. Indexing refers to the way data is labeled and referenced within a DataFrame or Series. Indexing allows you to select data based on these labels. 
 > [!TIP]
@@ -92,6 +95,8 @@ JDM.loc[[1, 18, 28], ['Model', 'cyl', 'gear']]
 ```
 ###### *The code should display the following output:*
 ![image](https://github.com/user-attachments/assets/6e6dac91-872d-477c-a635-a65300ed5d14)
+> [!IMPORTANT]
+> Save your file as Surname_Pandas-P1.py
 
 
 ## 🔐 Closing Remarks
