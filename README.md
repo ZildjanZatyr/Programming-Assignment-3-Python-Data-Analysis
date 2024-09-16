@@ -98,8 +98,9 @@ JDM.loc[[1, 18, 28], ['Model', 'cyl', 'gear']]
 Thank you for exploring this GitHub repository dedicated to Python Data Analysis. I hope that this may serve as a supplementary learning material for anyone interested in learning Python. Feel free to experiment with this code!
 
 ## 👨‍💻 Author
-#### *Zildjan Zatyr C. Ponce* 
-##### *2ECE - A*
+#### *Zildjan Zatyr C. Ponce | 2ECE - A* 
+#### *University of Santo Tomas*
+#### *September 17, 2024*
 
 ## 🔑 Version History
 - 1.02
